@@ -12,13 +12,13 @@ function Hero() {
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed">
-        Expenses is a free tool that helps you manage your expenses and income. It provides a simple and intuitive interface that allows you to track your expenses and income easily.
+        FreeExpenses is a free tool that helps you manage your expenses and income. It provides a simple and intuitive interface that allows you to track your expenses and income easily.
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <a
           className="block w-full rounded-sm bg-blue-700 px-12 py-3 text-sm font-medium text-white shadow-sm hover:bg-blue-800 focus:ring-3 focus:outline-hidden sm:w-auto"
-          href="#"
+          href="/sign-in"
         >
           Get Started
         </a>
